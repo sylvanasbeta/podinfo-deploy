@@ -1,0 +1,1 @@
+{"jobID":"792030e1-a680-d5b4-45f0-d91601aab59a","spec":{"type":"policy","cause":{"Message":"","User":"Jai Campbell \u003cjai.campbell@wipro.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"\"","locked_user":"Jai Campbell \u003cjai.campbell@wipro.com\u003e"}}}},"result":null}
