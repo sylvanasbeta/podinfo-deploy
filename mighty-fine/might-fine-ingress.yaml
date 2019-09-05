@@ -13,7 +13,7 @@ spec:
       paths:
       - backend:
           serviceName: mighty-fine
-          servicePort: 9898
+          servicePort: 3000
         path: /
 status:
   loadBalancer: {}

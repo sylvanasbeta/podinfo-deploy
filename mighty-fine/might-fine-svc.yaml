@@ -7,11 +7,11 @@ metadata:
 spec:
   type: ClusterIP
   ports:
-    - port: 9898
-      targetPort: 9898
+    - port: 3000
+      targetPort: 3000
       protocol: TCP
       name: http
   selector:
-    app: podinfo
+    app: mighty-fine
 
 
