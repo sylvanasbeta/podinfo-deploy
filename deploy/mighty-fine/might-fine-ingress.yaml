@@ -8,8 +8,9 @@ metadata:
   name: mighty-fine
   namespace: dev
 spec:
-  rules:
-  - http:
+  rules: 
+  - host: training-user-39.training.weave.works
+    http:
       paths:
       - backend:
           serviceName: mighty-fine
