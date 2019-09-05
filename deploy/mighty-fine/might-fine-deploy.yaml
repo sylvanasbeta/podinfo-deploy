@@ -5,7 +5,7 @@ metadata:
   name: mighty-fine
   namespace: dev
   annotations:
-    flux.weave.works/tag.mightfined: glob:*
+    flux.weave.works/tag.mighty-fine: glob:*
 spec:
   replicas: 5
   selector:
