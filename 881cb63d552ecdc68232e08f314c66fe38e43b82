@@ -1,0 +1,1 @@
+{"jobID":"84576c20-46ef-145c-8698-29f88b422105","spec":{"type":"policy","cause":{"Message":"egygfjdhsgfjsh","User":"Jai Campbell \u003cjai.campbell@wipro.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"egygfjdhsgfjsh\"","locked_user":"Jai Campbell \u003cjai.campbell@wipro.com\u003e"}}}},"result":null}
